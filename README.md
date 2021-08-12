@@ -15,3 +15,6 @@
 <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
 <img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+
+### Connect with me:
+<a href align="left" alt="LinkedIn" width="30px" src="www.linkedin.com/in/brent-washington"/>
