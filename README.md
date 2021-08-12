@@ -3,7 +3,7 @@
 - Web developer, Indie Game Developer, and avid artist
 - 🌱 I’m currently learning more about full-stack web development
 - 💬 Ask me about my hobbies!
-- 📫 [Connect with me on <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/brent-washington)
+- 📫 [Connect with me on <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/brent-washington)
 
 ### Technology Stack:
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
