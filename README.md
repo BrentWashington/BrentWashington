@@ -1,5 +1,6 @@
 ### Hello! I'm Brent 👋
 
+- Web developer, Indie Game Developer, and avid artist
 - 🌱 I’m currently learning more about full-stack web development
 - 💬 Ask me about my hobbies!
 - 📫 How to reach me: Email is the most reliable way to contact me! - brentwashing@gmail.com
