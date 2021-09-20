@@ -1,7 +1,6 @@
 ### Hello! I'm Brent 👋
 
 - Web developer, Indie Game Developer, and avid artist
-- 🌱 I’m currently exploring deeper in the world of full-stack web development
 - 💬 Ask me about my hobbies!
 - 📫 Connect with me on LinkedIn: www.linkedin.com/in/brent-washington
 
