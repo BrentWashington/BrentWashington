@@ -7,6 +7,16 @@
     </a>
   </div>
 
-  <h1>Hello, World!</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZsNzJtcmdpNDIxYzk3M21yNHFqNjI2MWJvenlmMHJzd2Rsa2tpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <h1>Hello, World! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZsNzJtcmdpNDIxYzk3M21yNHFqNjI2MWJvenlmMHJzd2Rsa2tpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 </div>
+
+<div id="body" align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="350"/>
+</div>
+
+---
+
+### :man_technologist: About Me:
+
+I am a Front-End Developer from Texas. 
+- 📫 How to connect with me: [![Linkedin Badge](https://img.shields.io/badge/Brent&nbsp;Washington-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brent-washington/) 
