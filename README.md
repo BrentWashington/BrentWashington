@@ -9,7 +9,7 @@
 
   <h1>Hello, World! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZsNzJtcmdpNDIxYzk3M21yNHFqNjI2MWJvenlmMHJzd2Rsa2tpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
   
-  ### Free belly laughs
+  ### Joke of the Day
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
 </div>
 
